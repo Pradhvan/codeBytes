@@ -1,4 +1,13 @@
-# codeBytes
-DS ALGO QUESTIONS
+# CodeBytes
 
-### This repo contains the minimalistic DS algo questions that every developer must know.
+
+
+CodeBytes contains the minimum (10 per topic) DSA questions that can be used to get a good primer on basic approache to solve problems or just a good head first approach to DSA. 
+
+
+### Topics covered 
+
+- [x] Bit Manipulation
+- [ ] Linked List
+
+*NOTE:* This is only meant to be minimial approach so don't expect this to be a full fledged interview prep guide. This the repo just acts a dumping ground of questions that are solved on Leetcode.
